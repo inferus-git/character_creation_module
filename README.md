@@ -33,7 +33,7 @@ python main.py
 
 ## Разработчики
 
-- Имя Фамилия <email@example.com>
+- Артем Пелепец <artyom.pelepets@gmail.com>
 
 ## Лицензия
 
